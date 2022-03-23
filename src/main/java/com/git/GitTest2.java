@@ -9,5 +9,6 @@ public class GitTest2 {
         System.out.println("hot-fix2");
         System.out.println("第一次push");
         System.out.println("github 修改测试pull");
+        System.out.println("github 修改测试pull 测试冲突解决");
     }
 }
